@@ -1,2 +1,1 @@
-# Autotrader-by-machine-learning
-I try to implement some machine learning techniques on simple stock data 
+https://nbviewer.jupyter.org/github/ChenBoSyun/Autotrader-by-machine-learning/blob/master/trader.ipynb
